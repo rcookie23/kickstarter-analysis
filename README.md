@@ -15,7 +15,7 @@ The data set contained information on over 4,000 Kickstarter campaigns. The data
 The chart displayed above compares the success, failure and cancelation rates of Theater-based Kickstarter campaigns according to the month the campaigns were launched. As evidenced by the graph, May and June have large numbers of successful launches. There are slightly more failed launches in May than in June, but there are also more launches overall in May. Based on this data, it is advisable to launch Theater campaigns in May or June, as Kickstarters beginning in these months experience the highest success rates. 
 
 ### Analysis of Outcomes Based on Goals
-(kickstarter-analysis/resources/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](/resources/Outcomes_vs_Goals.png)
 
 This chart examines the success rate of Kickstarter campaigns with regard to the "Goal," i.e. the amount of money sought by the campaign. The date shown here represents the campaigns in the subcategory "plays."  For example, for the campaigns that sought $25,000 - $29,999, about 80% failed, and about 20% were successful. According to this graph, the highest success rate came for those campaigns seeking $1,000 or less. The success rate is higher than the failure rate up until $14,999, at which point the failure rate starts to exceed the success rate. Interestingly, the success rate exceeds the failure rate from $35,000 to $44,999. 
  
