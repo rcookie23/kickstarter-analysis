@@ -10,7 +10,7 @@ The purpose of this project was to determine how to most effectively conduct a f
 The data set contained information on over 4,000 Kickstarter campaigns. The data set started with 14 categories of information about each campaign, and we used these categories to derive several additional categories during our analysis. The challenges faced included sorting and filtering this large data set, combining and viewing the data in different ways to better understand it, and creating visualizations to effectively convey the insights generated through the data. 
 
 ### Analysis of Outcomes Based on Launch Date
-(kickstarter-analysis/resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes Based on Launch Date](/resources/Theater_Outcomes_vs_Launch.png)
 
 The chart displayed above compares the success, failure and cancelation rates of Theater-based Kickstarter campaigns according to the month the campaigns were launched. As evidenced by the graph, May and June have large numbers of successful launches. There are slightly more failed launches in May than in June, but there are also more launches overall in May. Based on this data, it is advisable to launch Theater campaigns in May or June, as Kickstarters beginning in these months experience the highest success rates. 
 
