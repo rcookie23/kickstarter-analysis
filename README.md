@@ -38,10 +38,12 @@ The primary challenges were deciding which parts of the data set to filter so th
 2. May through July are the best months to launch a campaign. May is the best month overall to launch a campaign. 
 
 - What can you conclude about the Outcomes based on Goals?
+
 For the greatest chance of a successful campaign, Louise should keep her fundraising goal to under $15,000. After $15,000, there is a drastic increase in the amount of campaigns that fail. 
 
 
 - What are some limitations of this dataset?
+
 This data set does not account for qualitative measures. For example, the success rate of a campaign may have something to do with the way the description of the project is written on Kickstarter, or with the likability/reputation of the person running the campaign.  The data does not give us insight into these factors that are difficult to measure. 
 
 Another limitation is that there is no data relating to campaigns within countries.  We can see the amount of campaigns in the US, but there may be differing success rates in specific regions of the US.  The data does not provide us with this information. 
@@ -49,6 +51,7 @@ Another limitation is that there is no data relating to campaigns within countri
 
 
 - What are some other possible tables and/or graphs that we could create?
+
 There are many lenses through which this data could continue to be analyzed. For example, we could create graphs that compare the success rate of theater campaigns with whether or not the campaign was a staff pick. We could look at whether the goal amount correlates with correlates with the number of backers or the average donation. We could look at whether different parent categories or subcategories were more likely to be staff picks. There are many more ways to analyze this large data set in order to derive insights about Kickstarter campaigns. 
 
 
